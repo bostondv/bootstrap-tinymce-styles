@@ -8,11 +8,11 @@ Requires at least: 3.8
 Tested up to: 4.2
 Stable tag: 1.0.0
 
-Adds Bootstrap styles to the WordPress TinyMCE editor's "Format" dropdown to provide easy access to style your content.
+Adds Bootstrap styles to the WordPress TinyMCE editor for easy access to style your content using Bootstrap components.
 
 == Description ==
 
-Adds Bootstrap styles to the WordPress TinyMCE editor's "Format" dropdown to provide easy access to style your content.
+Adds Bootstrap styles to the WordPress TinyMCE editor for easy access to style your content using Bootstrap components.
 
 == Installation ==
 
