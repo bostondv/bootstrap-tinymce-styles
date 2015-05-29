@@ -3,12 +3,13 @@
 Plugin Name: Bootstrap TinyMCE Styles
 Plugin URI: https://github.com/bostondv/bootstrap-tinymce-styles
 Description: Adds Bootstrap styles to the WordPress TinyMCE editor for easy access to style your content using Bootstrap components.
-Version: 1.0.0
+Version: 1.0.1
 Author: bostondv
 Author URI: http://pomelodesign.com
 Text Domain: bs-mce-styles
 Domain Path: /languages/
-License: GPLv3
+License: MIT
+License URI: http://opensource.org/licenses/MIT
 */
 
 /**

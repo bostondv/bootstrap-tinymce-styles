@@ -1,14 +1,14 @@
 {
   "name": "bostondv/bootstrap-tinymce-styles",
   "type": "wordpress-plugin",
-  "license": "GPLv3",
+  "license": "MIT",
   "description": "Adds Bootstrap styles to the WordPress TinyMCE editor for easy access to style your content using Bootstrap components.",
   "homepage": "https://github.com/bostondv/bootstrap-tinymce-styles",
   "authors": [
     {
       "name": "Boston Dell-Vandenberg",
       "email": "boston@pomelodesign.com",
-      "homepage": "https://github.com/bostondv/"
+      "homepage": "http://www.pomelodesign.com"
     }
   ],
   "keywords": [
