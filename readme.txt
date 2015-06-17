@@ -6,7 +6,7 @@ License URI: http://opensource.org/licenses/MIT
 Tags: tinymce, bootstrap, content, styles, css, editor
 Requires at least: 3.8
 Tested up to: 4.2
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 Adds Bootstrap styles to the WordPress TinyMCE editor for easy access to style your content using Bootstrap components.
 
@@ -24,6 +24,12 @@ Written by Boston Dell-Vandenberg of [Pomelo Design](http://www.pomelodesign.com
 1. Activate the Bootstrap TinyMCE Styles plugin through the 'Plugins' menu in WordPress
 
 == Changelog ==
+
+= 1.0.2 =
+
+Release Date: June, 2015
+
+* Adds option to center a blockquote
 
 = 1.0.1 =
 

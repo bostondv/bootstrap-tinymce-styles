@@ -3,7 +3,7 @@
 Plugin Name: Bootstrap TinyMCE Styles
 Plugin URI: https://github.com/bostondv/bootstrap-tinymce-styles
 Description: Adds Bootstrap styles to the WordPress TinyMCE editor for easy access to style your content using Bootstrap components.
-Version: 1.0.1
+Version: 1.0.2
 Author: bostondv
 Author URI: http://pomelodesign.com
 Text Domain: bs-mce-styles
@@ -364,6 +364,11 @@ function bs_mcekit_editor_settings( $settings ) {
                     'title'     => __( 'Reverse Blockquote', 'bs-mce-styles' ),
                     'selector'  => 'blockquote',
                     'classes'   => 'blockquote-reverse',
+                ),
+                array(
+                    'title'     => __( 'Centered Blockquote', 'bs-mce-styles' ),
+                    'selector'  => 'blockquote',
+                    'classes'   => 'text-center',
                 ),
                 array(
                     'title'     => __( 'Blockquote Footer', 'bs-mce-styles' ),
